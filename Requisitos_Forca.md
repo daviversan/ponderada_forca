@@ -23,3 +23,23 @@
 5. **Gerenciamento de Palavras:**  
    - Banco de dados com palavras variadas para diferentes categorias.  
    - Opção de seleção de categorias pelo jogador (exemplo: frutas, filmes, tecnologia).  
+
+
+## Requisitos Não Funcionais  
+
+1. **Desempenho:**  
+   - O tempo de resposta para cada interação deve ser inferior a 1 segundo.  
+
+2. **Escalabilidade:**  
+   - Suporte a até 1000 usuários simultâneos.  
+
+3. **Segurança:**  
+   - Criptografia de senhas no banco de dados.  
+   - Proteção contra ataques de força bruta e SQL Injection.  
+
+4. **Compatibilidade:**  
+   - Funcionar em navegadores modernos (Chrome, Firefox, Edge, Safari).  
+   - Interface responsiva para desktop, tablet e dispositivos móveis.  
+
+5. **Disponibilidade:**  
+   - Disponibilidade mínima de 90,5% ao longo do mês.  
